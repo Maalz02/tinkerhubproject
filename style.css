@@ -1,0 +1,27 @@
+h1{
+    color: rgb(248, 164, 189);
+    background-color: darkslategray; height: 100px;; width: 300px;
+    font-style: italic;
+    font-family: fantasy;
+    font-size: 100px;
+
+
+
+}
+body{
+    color:white;
+    margin-left: 350px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+body{
+    background-color: rgb(173, 88, 116);
+}
+.box{
+    background-color: rgb(126, 30, 59);
+    height: 90px;
+    width: 300px;
+    
+}
+
+
